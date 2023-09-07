@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en"
+<head>
+    <meta charset="UTF-8"
+    <title>my top fives</title>
+</head>
+
+<body>
+        <h1>my top 5's</h1>
+        <h2>top 5 favorite songs at the moment</h2>
+            <h3>based on my top tracks on spotify this past month</h3>
+                <ol>
+                <li> <a href="https://open.spotify.com/track/1wUnuiXMMvhudmzvcCtlZP?si=b51f2b277fcd40bb">Get Up-New Jeans</a></li>
+                <li> <a href="https://open.spotify.com/track/7mYwDmbbp8UPLlnRjTJ54X?si=618560c6f50e4dd0">Impurities-Le Sserafim</a></li>
+                <li> <a href="https://open.spotify.com/track/22jnEneSABg4vRCR1vow7F?si=b079e6ad8f8b4a3e">Violet-Daniel Caesar</a></li>
+                <li> <a href="https://open.spotify.com/track/7G3lxTsMfSx4yarMkfgnTC?si=bda235d8de014fb5">The World is Yours-Nas</a></li>
+                <li> <a href="https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ?si=8610dc7814504819">Youngest Daughter-Superheaven</a></li>
+            </ol>
+        <h2>my top 5 favorite animated shows</h2>
+            <ol>
+                <li> <img src="C:\Users\price\OneDrive\Pictures\justice league unlimited.jpg" alt="justice league unlimited" </li>
+                <li> <img src="C:\Users\price\OneDrive\Pictures\soul eater.jpg" alt="soul eater" </li>
+                <li> <img src="C:\Users\price\OneDrive\Pictures\regular show.jpg" alt="regular show" </li>
+                <li> <img src="C:\Users\price\OneDrive\Pictures\atla.jpg" alt="avatar the last airbender" </li>
+                <li> <img src="C:\Users\price\OneDrive\Pictures\castlevania.jpg" alt="castlevania" </li>
+            </ol>    
+</body>
